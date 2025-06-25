@@ -202,6 +202,8 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 # License 📄
 
+"This project is a modified version of <a href="[http://www.youtube.com/watch?v=IwBS39TOmpA](https://github.com/ashutosh1919/masterPortfolio)" target="_blank">[https://github.com/ashutosh1919/masterPortfolio]</a>. All credit to the original authors."
+
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
 # References 👏🏻
